@@ -1,4 +1,4 @@
-// Inclue the React library
+// Include the React library
 var React = require("react");
 
 // Include the react-router module

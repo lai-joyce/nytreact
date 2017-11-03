@@ -1,7 +1,7 @@
 // Include the Axios library for HTTP requests
 var axios = require("axios");
 
-// NYT API Key (Replace with your own API Key)
+// NYT API Key (unique API Key)
 var APIKey = "9b3adf57854f4a19b7b5782cdd6e427a";
 
 // Helper Functions
