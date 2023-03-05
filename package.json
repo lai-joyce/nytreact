@@ -8,8 +8,8 @@
     "express": "^4.13.4",
     "mongoose": "^4.4.20",
     "morgan": "^1.7.0",
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0",
     "react-router": "^2.4.1"
   },
   "devDependencies": {
